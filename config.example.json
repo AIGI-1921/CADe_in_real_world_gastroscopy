@@ -1,0 +1,10 @@
+{
+  "data": {
+    "cohort1": "data/cohort_1_analysis.csv",
+    "cohort2": "data/cohort_2_analysis.csv",
+    "first_study": "data/first_examination_mapping.xlsx",
+    "screening_result": "data/lesion_documentation.xlsx",
+    "cancer": "data/gastric_neoplastic_lesions.xlsx",
+    "polyp": "data/gastric_polypoid_lesions.xlsx"
+  }
+}
